@@ -1,0 +1,69 @@
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+.cont h1 {
+    font-size: 30px;
+    color: white;
+}
+
+.cont {
+    text-align: center;
+    border: 5px solid rgb(9, 9, 9);
+    width: 500px;
+    background: rgba(110, 104, 104, 0.303);
+    padding: 50px;
+    margin-left: 650px;
+}
+
+.cont p {
+    color: white;
+}
+
+.b2 {
+    font-size: 25px;
+    margin-top: 25px;
+    background: gray;
+    width: 250px;
+    border: 3px solid black;
+    border-radius: 20px;
+
+}
+
+input[type="text"],
+input[type="file"] {
+    width: 300px;
+    font-size: 20px;
+}
+
+.b2 {
+    font-size: 25px;
+    margin-top: 25px;
+    background: gray;
+    width: 250px;
+    border: 3px solid black;
+    border-radius: 20px;
+
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.para {
+    font-size: 30px;
+    color: black;
+}
+
+.container {
+    width: 500px;
+    margin-top: 150px;
+    margin-left: 1250px;
+    border: 2px solid blue;
+    padding: 50px;
+}
+
+#scroll::-webkit-scrollbar {
+    display: none;
+}
